@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+/build
+*.xcuserstate
+*.xcuserdatad
+xcuserdata
+UserInterfaceState.xcuserstate
+
